@@ -10,7 +10,7 @@
         "Type": "String",
         "MinLength": "3",
         "MaxLength": "63",
-        "Default": "myvoteappbucket"
+        "Default": "myvoteappbucket312"
     },
 
     "LambdaS3Bucket" : {
